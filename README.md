@@ -15,7 +15,7 @@ Building scalable web applications, microservices, and cloud-native solutions.
 - 💼 Software Engineer at Snapbizz Cloudtech
 - 🌱 Currently exploring advanced system design, cloud architecture, and AI-powered applications
 - 🔭 Working on scalable microservice-based platforms using Kafka and Spring Boot
-- 📱 Building modern web and mobile applications using React, Next.js, and React Native
+- 📱 Building modern web applications using React, Next.js, Node , Spring boot and Vuejs
 - ☁️ Experienced with AWS, Docker, CI/CD pipelines, and infrastructure maintenance
 - 🎯 Passionate about performance optimization and clean architecture
 
