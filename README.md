@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nagesh Patil</h1>
 
 <h3 align="center">
-Full Stack Software Engineer | React • Next.js • Vuejs •  Nodejs • Spring Boot • Cloud 
+💻 Full Stack Software Engineer |
+⚛️ React |
+▲ Next.js |
+💚 Vue.js |
+🟢 Node.js |
+☕ Spring Boot |
+☁️ Cloud
 </h3>
 
 <p align="center">
